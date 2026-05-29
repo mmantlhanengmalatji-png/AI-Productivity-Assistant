@@ -15,13 +15,11 @@ The application improves workplace productivity through AI-powered automation to
 The project was built using Lovable AI with modern responsive SaaS UI principles.
 
 ---
-
 # Problem Statement
 
 Professionals spend significant time performing repetitive tasks such as drafting emails, summarizing meetings, planning schedules, and researching information.
 
 This project solves this problem by using AI to automate these tasks, improve workflow efficiency, and save time in workplace environments.
-
 ---
 
 # Features
